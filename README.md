@@ -104,7 +104,7 @@
   -Instale os pacotes necessários executando:
   
   ```
-  pip install -r requirements.txt
+  pip install (coloque a qui o nome da biblioteca que lhe falta)
   ```
 
 - **Exemplos de Uso:** 
