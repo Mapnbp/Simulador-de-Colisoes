@@ -10,7 +10,7 @@
   - Manual de Instruções para o Jogo:
     Após executar o código, será aberto uma janela pygame onde o usuário se deparará com um menu contendo 3 opções:
 
-    ![Imagem do menu incial](images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.02_1f62514c.jpg)
+    <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.02_1f62514c.jpg" alt="Imagem do menu inicial descrito abaixo">
 
     - Iniciar:
     Inicia o jogo pressionando a tecla enter, caso o usuário não mexa em nenhuma configuração, o jogo iniciará com o número
