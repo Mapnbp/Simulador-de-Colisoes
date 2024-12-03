@@ -43,11 +43,11 @@
 
   1. **Conservação do Momento Linear**:
 
-     O momento linear total do sistema (no eixo \(x\) e \(y\)) é conservado durante a colisão. A fórmula para a conservação do momento linear é dada por:
+     O momento linear total do sistema (no eixo x e y) é conservado durante a colisão. A fórmula para a conservação do momento linear é dada por:
 
-     ```
-     m_1 * v_{1i} + m_2 * v_{2i} = m_1 * v_{1f} + m_2 * v_{2f}
-     ```
+     $$
+     m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f}
+     $$
 
      Onde:
      - \( m_1 \) e \( m_2 \) são as massas dos corpos 1 e 2, respectivamente.
@@ -58,9 +58,9 @@
 
      A energia cinética total do sistema também é conservada durante a colisão elástica, e a fórmula para a conservação da energia cinética é:
 
-     ```
-     (1/2) * m_1 * v_{1i}^2 + (1/2) * m_2 * v_{2i}^2 = (1/2) * m_1 * v_{1f}^2 + (1/2) * m_2 * v_{2f}^2
-     ```
+     $$
+     \frac{1}{2} m_1 v_{1i}^2 + \frac{1}{2} m_2 v_{2i}^2 = \frac{1}{2} m_1 v_{1f}^2 + \frac{1}{2} m_2 v_{2f}^2
+     $$
 
      Onde:
      - \( m_1 \) e \( m_2 \) são as massas dos corpos.
@@ -71,13 +71,13 @@
 
      Em uma colisão elástica entre dois corpos, as velocidades finais dos corpos podem ser calculadas usando as fórmulas específicas que derivam da conservação do momento linear e da energia cinética:
 
-     ```
-     v_{1f} = [(m_1 - m_2) * v_{1i} + 2 * m_2 * v_{2i}] / (m_1 + m_2)
-     ```
+     $$
+     v_{1f} = \frac{(m_1 - m_2) v_{1i} + 2 m_2 v_{2i}}{m_1 + m_2}
+     $$
 
-     ```
-     v_{2f} = [(m_2 - m_1) * v_{2i} + 2 * m_1 * v_{1i}] / (m_1 + m_2)
-     ```
+     $$
+     v_{2f} = \frac{(m_2 - m_1) v_{2i} + 2 m_1 v_{1i}}{m_1 + m_2}
+     $$
 
      Onde:
      - \( m_1 \) e \( m_2 \) são as massas dos corpos.
