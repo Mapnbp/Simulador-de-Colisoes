@@ -102,7 +102,10 @@
   -Certifique-se de que o Python 3.6+ (ou outra versão de linguagem) está instalado.
   -Dependências incluem: Math, PyGame, Random.
   -Instale os pacotes necessários executando:
+  
+  ```
   pip install -r requirements.txt
+  ```
 
 - **Exemplos de Uso:** 
   -Para rodar a simulação básica, utilize o código:
