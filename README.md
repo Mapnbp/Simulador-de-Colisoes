@@ -43,7 +43,7 @@ $$
 F = \frac{\Delta p}{\Delta t},
 $$
 
-onde \( F \) é a força, \( p = m \cdot v \) é o momento linear, e \( \Delta p \) é a variação do momento em um intervalo de tempo \( \Delta t \). 
+onde $F$ é a força, $p = m \cdot v$ é o momento linear, e \( \Delta p \) é a variação do momento em um intervalo de tempo \( \Delta t \). 
 
 Para dois corpos interagindo, temos:
 
