@@ -102,7 +102,7 @@
 
 - **Exemplos de Uso:** 
   -Para rodar a simulação básica, utilize o código:
-  lançamento.py e execute o terminal.
+  simuladordecolisoes.py e execute o terminal.
 
 - **Informações sobre o projeto:**
   Este projeto foi desenvolvido por:
