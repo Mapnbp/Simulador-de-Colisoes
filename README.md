@@ -116,7 +116,7 @@ $$
 ---
 
 ## **4. Momento Linear em Função de Massa e Velocidade**
-Sabemos que \( p = m \cdot v \), então:
+Sabemos que p = mv, então:
 
   1. **Conservação do Momento Linear**:
 
