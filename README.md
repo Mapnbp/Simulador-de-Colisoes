@@ -38,6 +38,86 @@
 
   O modelo matemático utilizado no jogo é baseado nas **Leis de Newton** e nas **Leis da Conservação da Energia Mecânica**. Durante as colisões elásticas, temos as seguintes equações importantes:
 
+  # Derivação da Fórmula da Conservação do Momento Linear
+
+A fórmula da **conservação do momento linear**, 
+
+\[
+m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f},
+\]
+
+é derivada diretamente das **leis de Newton** e do conceito de força. Aqui está o passo a passo:
+
+---
+
+## **1. Segunda Lei de Newton**
+A segunda lei de Newton diz que:
+
+$$
+F = \frac{\Delta p}{\Delta t},
+$$
+
+onde \( F \) é a força, \( p = m \cdot v \) é o momento linear, e \( \Delta p \) é a variação do momento em um intervalo de tempo \( \Delta t \). 
+
+Para dois corpos interagindo, temos:
+
+$$
+F_1 = \frac{\Delta p_1}{\Delta t} \quad \text{e} \quad F_2 = \frac{\Delta p_2}{\Delta t}.
+$$
+
+---
+
+## **2. Terceira Lei de Newton**
+A terceira lei de Newton afirma que as forças trocadas entre dois corpos são **iguais em módulo e opostas em direção**:
+
+$$
+F_1 = -F_2.
+$$
+
+Substituímos na equação da força:
+
+$$
+\frac{\Delta p_1}{\Delta t} = -\frac{\Delta p_2}{\Delta t}.
+$$
+
+Multiplicando ambos os lados por \( \Delta t \), obtemos:
+
+$$
+\Delta p_1 = -\Delta p_2.
+$$
+
+Ou seja:
+
+$$
+\Delta p_1 + \Delta p_2 = 0.
+$$
+
+---
+
+## **3. Definição de Variação do Momento**
+A variação do momento para cada corpo é:
+
+$$
+\Delta p_1 = p_{1f} - p_{1i}, \quad \Delta p_2 = p_{2f} - p_{2i}.
+$$
+
+Substituímos na equação anterior:
+
+$$
+(p_{1f} - p_{1i}) + (p_{2f} - p_{2i}) = 0.
+$$
+
+Reorganizando:
+
+$$
+p_{1i} + p_{2i} = p_{1f} + p_{2f}.
+$$
+
+---
+
+## **4. Momento Linear em Função de Massa e Velocidade**
+Sabemos que \( p = m \cdot v \), então:
+
   1. **Conservação do Momento Linear**:
 
      O momento linear total do sistema (no eixo x e y) é conservado durante a colisão. A fórmula para a conservação do momento linear é dada por:
