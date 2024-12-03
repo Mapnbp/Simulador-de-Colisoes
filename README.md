@@ -116,3 +116,17 @@
     Gabriel Araujo Lima (14571376): gabriel.araujolima@usp.br
 
 Como parte do processo avaliativo da disciplina 7600105 - Física Básica I (2024) da USP-São Carlos ministrada pela(o) [Prof. Krissia de Zawadzki/Esmerindo de Sousa Bernardes]
+
+### REFERENCIAS
+- Utilizamos o Material didático disponibilizado no edisciplinas: dinamica-v4.pdf
+- Utilizamos o Chatgpt para nos auxiliar na parte gráfica do código, como a função gerar_cor e draw (pela falta de familiaridade com essa parte do código)
+- Utilizamos o site:
+  ```
+  https://www.pygame.org/docs/
+  ```
+  Para consultarmos e identificarmos as funções disponibilizadas pela biblioteca pygame
+- Utilizamos o site:
+  ```
+  https://docs.python.org/3
+  ```
+  Para consultarmos outras funções disponibilizadas nas linguagens e biliotecas que utilizamos de suporte
