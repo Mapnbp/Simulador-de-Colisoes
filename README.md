@@ -15,23 +15,18 @@
     - Iniciar:
     Inicia o jogo pressionando a tecla enter, caso o usuário não mexa em nenhuma configuração, o jogo iniciará com o número
     de corpos e suas respectivas massas e velocidades geradas aleatoriamente.
-    (imagem contendo o jogo rodando)
+    <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.02_8e1bc18d.jpg" alt="Imagem do jogo rodando">
     - Configurar:
     Abre o menu de configurações pressionando a tecla C. navegando por ele através das teclas direcionais (arrow keys) é possivel:
     determinar o intervalo de massa mínima (1) e máxima (2) dos corpos no jogo; Determinar o intervalo de velocidade mínima (3) e máxima (4) dos corpos, e o número de corpos (5). 
-    (imagem contendo as configurações)
+    <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.02_905e278a.jpg" alt="Imagem do menu de configurações">
     Pressionando ESC, o usuário retorna ao menu inicial.
     - Sair:
     pressiona a tecla ESC para fechar o programa.
     - OBSERVAÇÃO:
     Conforme o usuário expande e contrai a janela do jogo, as paredes que fecham a área do jogo seguem o padrão e adaptam seu comprimento. 
-    (colocar duas imagens de tamanho diferente para exemplificar essa parte visual do jogo)
-
-## Conceitos de Física e Modelo Matemático
-
-- **Conceito Principal:** Colisão Elástica
-
-  A colisão elástica é um tipo de colisão onde, após o impacto, a energia cinética total e o momento linear total do sistema são conservados. Isso significa que a direção, o sentido e o módulo da velocidade dos corpos são alterados, mas a energia cinética e o momento linear não se perdem, assumindo que não há perdas para outras formas de energia, como calor ou deformação permanente.
+    <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.00_3bb2d3ea.jpg" alt="Imagem do jogo com uma janela longa na horizontal e pequena na vertical">
+    <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.01_470bf191.jpg" alt="Imagem do jogo com uma janela pequena na horizontal e longa na vertical">
 
 ## Conceitos de Física e Modelo Matemático
 
