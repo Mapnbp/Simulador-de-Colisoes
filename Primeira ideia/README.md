@@ -1,4 +1,4 @@
-# Jogo de Hóquei de Mesa (Air Hockey)
+# Jogo de Hóquei de Mesa (Air Hockey) - NÃO FINALIZADO
 
 ## Descrição Básica do Projeto
 
