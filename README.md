@@ -63,8 +63,8 @@
      $$
 
      Onde:
-     - \( m_1 \) e \( m_2 \) são as massas dos corpos.
-     - \( v_{1i} \) e \( v_{2i} \) são as velocidades iniciais dos corpos.
+     - $ m_1 $ e $ m_2 $ são as massas dos corpos.
+     - $ v_{1i} $ e $ v_{2i} $ são as velocidades iniciais dos corpos.
      - \( v_{1f} \) e \( v_{2f} \) são as velocidades finais dos corpos.
 
   3. **Cálculo das Velocidades Finais**:
