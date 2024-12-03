@@ -17,15 +17,11 @@
   Inicia o jogo pressionando a tecla Enter. Se o usuário não alterar as configurações, o jogo começará com valores padrão para as massas, velocidades e o número de discos. O objetivo é marcar gols no adversário e evitar que o outro jogador faça o mesmo.
   
   - Configurar:
-  Ao pressionar a tecla "C", o usuário pode acessar o menu de configurações, onde é possível:
   
   Ajustar a velocidade máxima do disco e dos jogadores.
   Definir as massas dos discos e dos jogadores.
   Alterar o número de discos no jogo.
   A navegação é feita com as teclas de seta. Pressionando "ESC", o usuário retorna ao menu principal.
-  
-  - Sair:
-  Ao pressionar a tecla "ESC", o programa será fechado.
   
   - Observações:
   O jogo se adapta automaticamente caso a janela seja redimensionada, ajustando as dimensões das bordas para manter a área de jogo consistente.
