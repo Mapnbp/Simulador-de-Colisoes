@@ -53,18 +53,23 @@ Como Usar
 Instalação e Dependências:
 Certifique-se de que o Python 3.6+ esteja instalado. Instale as dependências utilizando o comando:
 
-bash
 Copiar código
 pip install -r requirements.txt
 Exemplos de Uso:
 Para rodar o jogo, basta executar o arquivo principal:
 
-bash
 Copiar código
 python jogo_air_hockey.py
 Informações sobre o Projeto
-Este projeto foi desenvolvido por:
+- **Informações sobre o projeto:**
+  Este projeto foi desenvolvido por:
+  
+    Matheus Araujo Pinheiro (14676810): matheusaraujopinh@usp.br
+  
+    Bruno Gonçalves (14762111): brunogb728@usp.br
 
-Matheus Araujo Pinheiro: matheusaraujopinh@usp.br
-Bruno Gonçalves: brunogb728@usp.br
+    Luis Henrique Ponciano (15577760): luishenriqueponciano@usp.br
+
+    Gabriel Araujo Lima (14571376): gabriel.araujolima@usp.br
+
 Como parte do processo avaliativo da disciplina 7600105 - Física Básica I (2024) da USP-São Carlos ministrada pela(o) Prof. Krissia de Zawadzki / Esmerindo de Sousa Bernardes.
