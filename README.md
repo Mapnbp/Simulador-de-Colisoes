@@ -43,7 +43,7 @@ $$
 F = \frac{\Delta p}{\Delta t},
 $$
 
-onde $F$ é a força, $p = m \cdot v$ é o momento linear, e \( \Delta p \) é a variação do momento em um intervalo de tempo \( \Delta t \). 
+onde $F$ é a força, $p = m \cdot v$ é o momento linear, e $\Delta p$ é a variação do momento em um intervalo de tempo $\Delta t$. 
 
 Para dois corpos interagindo, temos:
 
@@ -66,7 +66,7 @@ $$
 \frac{\Delta p_1}{\Delta t} = -\frac{\Delta p_2}{\Delta t}.
 $$
 
-Multiplicando ambos os lados por \( \Delta t \), obtemos:
+Multiplicando ambos os lados por $\Delta t$, obtemos:
 
 $$
 \Delta p_1 = -\Delta p_2.
@@ -102,7 +102,7 @@ $$
 ---
 
 ## **4. Momento Linear em Função de Massa e Velocidade**
-Sabemos que p = mv, então:
+Sabemos que $p = m \cdot v$, então:
 
   1. **Conservação do Momento Linear**:
 
