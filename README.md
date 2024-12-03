@@ -36,20 +36,6 @@
 
 - **Modelo Matemático:**  
 
-  O modelo matemático utilizado no jogo é baseado nas **Leis de Newton** e nas **Leis da Conservação da Energia Mecânica**. Durante as colisões elásticas, temos as seguintes equações importantes:
-
-  # Derivação da Fórmula da Conservação do Momento Linear
-
-A fórmula da **conservação do momento linear**, 
-
-\[
-m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f},
-\]
-
-é derivada diretamente das **leis de Newton** e do conceito de força. Aqui está o passo a passo:
-
----
-
 ## **1. Segunda Lei de Newton**
 A segunda lei de Newton diz que:
 
