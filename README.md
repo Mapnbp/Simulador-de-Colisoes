@@ -45,52 +45,48 @@
 
      O momento linear total do sistema (no eixo x e y) é conservado durante a colisão. A fórmula para a conservação do momento linear é dada por:
 
-     $$
-     m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f}
-     $$
+     ```
+     m1 * v1i + m2 * v2i = m1 * v1f + m2 * v2f
+     ```
 
      Onde:
-     - \( m_1 \) e \( m_2 \) são as massas dos corpos 1 e 2, respectivamente.
-     - \( v_{1i} \) e \( v_{2i} \) são as velocidades iniciais dos corpos 1 e 2, respectivamente.
-     - \( v_{1f} \) e \( v_{2f} \) são as velocidades finais dos corpos 1 e 2, respectivamente.
+     - `m1` e `m2` são as massas dos corpos 1 e 2, respectivamente.
+     - `v1i` e `v2i` são as velocidades iniciais dos corpos 1 e 2, respectivamente.
+     - `v1f` e `v2f` são as velocidades finais dos corpos 1 e 2, respectivamente.
 
   2. **Conservação da Energia Cinética**:
 
      A energia cinética total do sistema também é conservada durante a colisão elástica, e a fórmula para a conservação da energia cinética é:
 
-     $$
-     \frac{1}{2} m_1 v_{1i}^2 + \frac{1}{2} m_2 v_{2i}^2 = \frac{1}{2} m_1 v_{1f}^2 + \frac{1}{2} m_2 v_{2f}^2
-     $$
+     ```
+     (1/2) * m1 * v1i^2 + (1/2) * m2 * v2i^2 = (1/2) * m1 * v1f^2 + (1/2) * m2 * v2f^2
+     ```
 
      Onde:
-     - $ m_1 $ e $ m_2 $ são as massas dos corpos.
-     - $ v_{1i} $ e $ v_{2i} $ são as velocidades iniciais dos corpos.
-     - \( v_{1f} \) e \( v_{2f} \) são as velocidades finais dos corpos.
+     - `m1` e `m2` são as massas dos corpos.
+     - `v1i` e `v2i` são as velocidades iniciais dos corpos.
+     - `v1f` e `v2f` são as velocidades finais dos corpos.
 
   3. **Cálculo das Velocidades Finais**:
 
      Em uma colisão elástica entre dois corpos, as velocidades finais dos corpos podem ser calculadas usando as fórmulas específicas que derivam da conservação do momento linear e da energia cinética:
 
-     $$
-     v_{1f} = \frac{(m_1 - m_2) v_{1i} + 2 m_2 v_{2i}}{m_1 + m_2}
-     $$
+     ```
+     v1f = [(m1 - m2) * v1i + 2 * m2 * v2i] / (m1 + m2)
+     ```
 
-     $$
-     v_{2f} = \frac{(m_2 - m_1) v_{2i} + 2 m_1 v_{1i}}{m_1 + m_2}
-     $$
+     ```
+     v2f = [(m2 - m1) * v2i + 2 * m1 * v1i] / (m1 + m2)
+     ```
 
      Onde:
-     - \( m_1 \) e \( m_2 \) são as massas dos corpos.
-     - \( v_{1i} \) e \( v_{2i} \) são as velocidades iniciais dos corpos.
-     - \( v_{1f} \) e \( v_{2f} \) são as velocidades finais dos corpos.
+     - `m1` e `m2` são as massas dos corpos.
+     - `v1i` e `v2i` são as velocidades iniciais dos corpos.
+     - `v1f` e `v2f` são as velocidades finais dos corpos.
 
 - **Aplicabilidade:**
 
-  O jogo simula como corpos de diferentes massas e velocidades reagem a colisões elásticas entre si, levando em consideração as leis da física mencionadas. No código implementado, as colisões são tratadas de forma a conservar tanto o momento linear quanto a energia cinética dos corpos, aplicando as fórmulas mencionadas para calcular as novas velocidades após cada colisão.
-
-  Como forças externas como atrito, resistência do ar e gravidade não são consideradas, a simulação é uma idealização simplificada das colisões, sendo útil para a visualização de interações entre corpos em um sistema fechado e para a compreensão básica da física de colisões elásticas.
-
-
+  O jogo simula como corpos de diferentes massas e velocidades reagem a colisões elásticas entre si, levando em consideração as leis da física mencionadas. No código implementado, as colisões são tratadas de forma a conservar tanto o momento linear quanto a energia cinética dos corpos, aplicando as fórmulas mencionadas para calcular as novas velocidades após cada colisão. Como forças externas como atrito, resistência do ar e gravidade não são consideradas, a simulação é uma idealização simplificada das colisões, sendo útil para a visualização de interações entre corpos em um sistema fechado e para a compreensão básica da física de colisões elásticas.
 
   ## Implementação
 
