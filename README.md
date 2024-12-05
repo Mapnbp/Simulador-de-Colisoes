@@ -26,7 +26,6 @@
     - OBSERVAÇÃO:
     Conforme o usuário expande e contrai a janela do jogo, as paredes que fecham a área do jogo seguem o padrão e adaptam seu comprimento. 
     <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.00_3bb2d3ea.jpg" alt="Imagem do jogo com uma janela longa na horizontal e pequena na vertical">
-    <img src="images/Imagem do WhatsApp de 2024-12-02 à(s) 20.50.01_470bf191.jpg" alt="Imagem do jogo com uma janela pequena na horizontal e longa na vertical">
 
 ## Conceitos de Física e Modelo Matemático
 
