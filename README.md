@@ -247,3 +247,9 @@ self: estrutura que armazena a posição
 pos: posição atual
 v: velocidade do objeto
 ```
+
+## Referências
+- https://en.wikipedia.org/wiki/Elastic_collision
+- Notas de aula do Professor Esmerindo Souza pdf dinâmica-v4
+- https://www.pygame.org/news
+- https://docs.python.org/3/reference/index.html
