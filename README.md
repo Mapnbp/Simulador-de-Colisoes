@@ -1,9 +1,9 @@
-# Trabalho de Colisão Elástica
+# Simulação de Colisão Elástica
 
-## Descrição Básica do Projeto
+## Descrição do Projeto
 
 - **Objetivo e Tipo de Projeto**:
-  Criamos um jogo simulação bidimensional onde é possivel visualizar corpos, representados por bolas, se colidindo de forma elástica,
+  Criamos uma interface onde o usuário pode fazer a simulação bidimensional onde é possivel visualizar corpos, representados por bolas, se colidindo de forma elástica,
   onde a energia cinética e o momento linear total do sistema se conservam e os corpos envolvidos não sofrem deformações permanentes 
   durante o impacto. Ou seja, após o encontro entre os corpos, a direção, o sentido e o módulo da velocidade é afetado, porém a massa não se altera.
   OBSERVAÇÃO: A parede, ou seja, as bordas da tela, não são consideradas para a colisão e servem apenas para redirecionar o vetor do corpo
